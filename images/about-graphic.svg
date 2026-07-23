@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320">
+  <rect width="400" height="320" rx="16" fill="#EEE9E6"/>
+  <circle cx="200" cy="140" r="70" fill="#a8804f" opacity="0.15"/>
+  <circle cx="200" cy="140" r="45" fill="#a8804f" opacity="0.3"/>
+  <text x="200" y="150" text-anchor="middle" font-size="42" fill="#a8804f" font-family="Arial" font-weight="700">R</text>
+  <text x="200" y="260" text-anchor="middle" font-size="16" fill="#6b5d4f" font-family="Arial">RITAH INTERNATIONAL CO., LTD.</text>
+</svg>
